@@ -1,0 +1,46 @@
+/* xs - устройства (до 576px) */
+/* CSS для ширины, которая меньше 575px (включительно) */
+ 
+/* sm-устройства (больше или равно 576px) */
+@media (max-width: 576px) {
+
+}
+ 
+/* md-устройства (больше или равно 768px) */
+@media (max-width: 768px) {
+    .head > div > div > div.tele.col > div > a {
+        font-size: 20px;
+    }
+    
+    .head > div > div > div.tele.col > div > p {
+        font-size: 15px;
+    }
+    
+    #sectionthree > div > div > div.callback-tel.col-sm-12.col-md-6 {
+        text-align: -webkit-center;
+    }
+    
+    #sectionthree > div > div > div.callback-tel.col-sm-12.col-md-6 > div > div.hot > span {
+        width: 0;
+    }
+    
+    #sectionseven > div > div > div.col-md-6.two > div.items > div {
+        padding-bottom: 20px;
+    }
+}
+ 
+/* lg-устройства (больше или равно 992px) */
+@media (max-width: 376px) {
+    .head > div > div > div.tele.col > div > a {
+        font-size: 15px;
+    }
+    
+    .head > div > div > div.tele.col > div > p {
+        font-size: 10px;
+    }
+}
+ 
+/* xl-устройства (больше или равно 1200px) */
+@media (max-width: 1200px) {
+  /* CSS для: ширины >= 1200px */
+}

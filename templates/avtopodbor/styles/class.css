@@ -1,0 +1,5 @@
+html { font-size: 16px; }
+.fl { float: left; }
+.fr { float: right; }
+.cb { clear: both; }
+.middle { display: table-cell; vertical-align: middle; }

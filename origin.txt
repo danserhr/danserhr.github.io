@@ -1,0 +1,328 @@
+Uri: http://autosince.ru/
+File Name: c:\Downloaded Web Sites\autosince.ru\index.html
+Content Type: text/html
+
+Uri: http://autosince.ru/?format=feed&type=rss
+File Name: c:\Downloaded Web Sites\autosince.ru\index-1.html
+Content Type: text/html
+
+Uri: http://autosince.ru/?format=feed&type=atom
+File Name: c:\Downloaded Web Sites\autosince.ru\index-2.html
+Content Type: text/html
+
+Uri: http://autosince.ru/templates/avtopodbor/favicon.ico
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://autosince.ru/media/jui/js/jquery-noconflict.js
+File Name: c:\Downloaded Web Sites\autosince.ru\media\jui\js\jquery-noconflict.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/media/jui/js/jquery-migrate.min.js
+File Name: c:\Downloaded Web Sites\autosince.ru\media\jui\js\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/media/system/js/caption.js
+File Name: c:\Downloaded Web Sites\autosince.ru\media\system\js\caption.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/templates/avtopodbor/styles/reset.css
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\styles\reset.css
+Content Type: text/css
+
+Uri: http://autosince.ru/templates/avtopodbor/styles/fonts.css
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\styles\fonts.css
+Content Type: text/css
+
+Uri: http://autosince.ru/templates/avtopodbor/styles/class.css
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\styles\class.css
+Content Type: text/css
+
+Uri: http://autosince.ru/templates/avtopodbor/styles/arcticmodal.css
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\styles\arcticmodal.css
+Content Type: text/css
+
+Uri: http://autosince.ru/templates/avtopodbor/styles/style.css
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\styles\style.css
+Content Type: text/css
+
+Uri: http://autosince.ru/jquery.maskedinput.js
+File Name: c:\Downloaded Web Sites\autosince.ru\jquery.maskedinput.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/templates/avtopodbor/images/15/1.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\15\1.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/15/2.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\15\2.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/15/3.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\15\3.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/15/4.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\15\4.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/scripts/jquery-1.9.1.min.js
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\scripts\jquery-1.9.1.min.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/templates/avtopodbor/scripts/jquery.arcticmodal.min.js
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\scripts\jquery.arcticmodal.min.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/templates/avtopodbor/scripts/script.js
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\scripts\script.js
+Content Type: application/x-javascript
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Regular.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Regular.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Bold.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Bold.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Italic.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Italic.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Light.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Light.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Semibold.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Semibold.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/fonts/SegoeUI/Semibold-Italic.ttf
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\fonts\SegoeUI\Semibold-Italic.hxd
+Content Type: application/octet-stream
+
+Uri: http://autosince.ru/templates/avtopodbor/images/loading.gif
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\loading.gif
+Content Type: image/gif
+
+Uri: http://autosince.ru/templates/avtopodbor/images/logo.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/1.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\1.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/1.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\1.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/2.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\2.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/3.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\3.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/4.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\4.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/5.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\5.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/6.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\6.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/7.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\7.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/8.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\8.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/9.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\9.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/10.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\10.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/11.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\11.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/accords/12.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\accords\12.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/1.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\1.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/2.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\2.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/3.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\3.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/4.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\4.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/5.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\5.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/6.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\6.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/7.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\7.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/2/8.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\2\8.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/3.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\3.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/2.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\2.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/3.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\3.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/4.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\4.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/5.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\5.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/1.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\1.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/2.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\2.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/3.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\3.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/4.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\4.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/5.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\5.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/4/6.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\4\6.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/5.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\5.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/6.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\6.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/8.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\8.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/6.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\6.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/7.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\7.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/9.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\9.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/10.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\10.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/11.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\11.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/12.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\12.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/14.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\14.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/8.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\8.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/11.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\11.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/17.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\17.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/9.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\9.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/12.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\12.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/13.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\13.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/14.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\14.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/10.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\10.png
+Content Type: image/png
+
+Uri: http://autosince.ru/templates/avtopodbor/images/16.jpg
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\16.jpg
+Content Type: image/jpeg
+
+Uri: http://autosince.ru/templates/avtopodbor/images/icons/15.png
+File Name: c:\Downloaded Web Sites\autosince.ru\templates\avtopodbor\images\icons\15.png
+Content Type: image/png
+

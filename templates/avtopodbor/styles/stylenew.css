@@ -1,0 +1,375 @@
+/*head*/
+#head {
+    padding-top: 10px;
+}
+
+#head > div > div > div > img {
+    width: 100%;
+}
+
+#head > div > div > div:nth-child(2) > div > p > span {
+    display: inline-block;
+    vertical-align: middle;
+    width: 12px;
+    height: 12px;
+    background: url(../images/icons/1.jpg) no-repeat;
+}
+
+#head > div > div > div:nth-child(2) > div > p {
+    font-size: 10px;
+    color: #3f3f3f;
+}
+
+#head > div > div > div:nth-child(2) > div > a {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 6px;
+    text-decoration: none;
+    color: #000;
+}
+
+#information > div > div > h1 > b > span {
+    background-color: #ffd215;
+}
+
+#information > div > div > h1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#information {
+    padding: 20px 0px;
+}
+
+body > div.hot > div > div > div.wrap {
+    background: #ffd215;
+}
+
+/*section one*/
+
+#sectionone{
+    padding-top: 20px;
+}
+
+#sectionone h1 {
+    font-family: SegoeUI-Semibold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#sectionone > div > div > h1 > span {
+    background-color: #ffd215;
+}
+
+#sectionone > div > div.inform {
+    display: inline-flex;
+}
+
+#sectionone > div > div.inform > div.text {
+    font-family: SegoeUI-Semibold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#sectionone > div > div {
+    padding: 9px 0px;
+}
+
+#sectionone > div > div > div.ico > img {
+    max-width: 37px;
+}
+
+#sectionone > div.button > a {
+    border: none;
+    padding: 11px 20px;
+    border-bottom: 3px solid #862700;
+    background: #ff5b00;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#sectionone > div.button {
+    text-align: center;
+    padding-top: 25px;
+}
+
+/*section two*/
+
+#sectiontwo {
+    padding-top: 45px;
+}
+
+#sectiontwo > div > div.head {
+    padding-bottom: 15px;
+}
+
+#sectiontwo > div > div.head > h2 {
+    font-family: SegoeUI-Semibold;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 23px;
+}
+
+#sectiontwo > div > div.head > h2 > span {
+    background-color: #ffd215;
+}
+
+#sectiontwo > div > div.thumb > div.top > h4 {
+    background-image: url(../images/4/1.jpg);
+    color: #005fb0;
+    font-size: 28px;
+    padding-left: 40px;
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    min-height: 32px;
+    margin-bottom: 10px;
+    font-family: SegoeUI-Light;
+}
+
+#sectiontwo > div > div:nth-child(3) > div.top > h4 {
+    background-image: url(../images/4/2.jpg);
+}
+
+#sectiontwo > div > div:nth-child(4) > div.top > h4{
+    background-image: url(../images/4/3.jpg);
+}
+
+#sectiontwo > div > div:nth-child(5) > div.top > h4 {
+    background-image: url(../images/4/4.jpg);   
+}
+
+#sectiontwo > div > div.thumb > div.bottom > p {
+    color: #7a7a7a;
+    line-height: 20px;
+}
+
+#sectiontwo > div > div {
+    padding: 9px 0px;
+}
+
+/*section three*/
+
+#sectionthree > div > div.thumb {
+    display: inline-flex;
+    padding-bottom: 15px;
+}
+
+#sectionthree > div > div.thumb > img {
+    max-height: 65px;
+}
+
+#sectionthree > div > div.thumb > p {
+    padding-left: 20px;
+    font-family: SegoeUI-Semibold;
+    font-size: 18px;
+}
+
+#sectionthree > div > div.head > h2 {
+    font-family: SegoeUI-Semibold;
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 23px;
+}
+
+#sectionthree > div > div.head {
+    padding: 20px 0px;
+}
+
+#sectionthree > div > div.button > a {
+    border: none;
+    padding: 11px 20px;
+    border-bottom: 3px solid #862700;
+    background: #ff5b00;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#sectionthree > div > div.button {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+/*section four*/
+#sectionfour > div > div.head {
+    padding-top: 20px;
+}
+
+#sectionfour > div > div.head > h2 {
+    font-family: SegoeUI-Semibold;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 28px;
+}
+
+#sectionfour > div > div.title {
+    display: inline-flex;
+    padding-top: 20px;
+}
+
+#sectionfour > div > div.title > div.numb.fl {
+    font-size: 30px;
+    color: #f8ae01;
+    text-decoration: underline;
+}
+
+#sectionfour > div > div.title > div.text.fl {
+    font-size: 21px;
+    line-height: 27px;
+    padding-left: 20px;
+}
+
+#sectionfour > div > div.image {
+    padding-top: 15px;
+}
+
+#sectionfour > div > div.image > img {
+    width: 100%;
+}
+
+#sectionfour > div > div.task {
+    background: url(../images/icons/11.png) no-repeat;
+    width: 121px;
+    height: 57px;
+    line-height: 39px;
+    padding: 7px 25px 7px 10px;
+    text-align: center;
+    margin: 10px 0px 10px 5px;
+    font-size: 20px;
+    color: #fff;
+    font-family: SegoeUI-Light;
+    font-weight: bold;
+}
+
+#sectionfour > div > p {
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+
+#sectionfour > div > div.icon {
+    height: 24px;
+    line-height: 24px;
+    background: url(../images/icons/17.png) no-repeat;
+    padding-left: 30px;
+    margin-bottom: 40px;
+    font-family: SegoeUI-Light;
+}
+
+#sectionfour > div > div.prob > h3 {
+    background-image: url(../images/icons/9.png);
+    font-size: 32px;
+    height: 39px;
+    line-height: 37px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    margin-bottom: 20px;
+}
+
+#sectionfour > div > div.prob > p {
+    line-height: 18px;
+    margin-bottom: 20px;
+    color: #383838;
+}
+
+#sectionfour > div > div.price > div.item-1.item {
+    background-image: url(../images/icons/12.png);
+    background-position: 8px 50%;
+    padding-left: 40px;
+    height: 32px;
+    line-height: 32px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    color: #383838; 
+}
+
+#sectionfour > div > div.price > div.item-2.item {
+    background-image: url(../images/icons/13.png);
+    padding-left: 40px;
+    height: 32px;
+    line-height: 32px;
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    margin-bottom: 10px;
+    color: #383838;
+}
+
+#sectionfour > div > div.price > div.item-3.item {
+    background-image: url(../images/icons/14.png);
+    padding-left: 40px;
+    height: 32px;
+    line-height: 32px;
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    margin-bottom: 10px;
+    color: #383838;
+}
+
+#sectionfour > div > div.button {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+#sectionfour > div > div.button > a {
+        border: none;
+    padding: 11px 20px;
+    border-bottom: 3px solid #862700;
+    background: #ff5b00;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#sectionfour > div > div:nth-child(14) {
+    margin-bottom: 20px;
+}
+
+/*section five*/
+
+#sectionfive {
+    padding-top: 15px;
+}
+
+#sectionfive > div > div > div.wrap {
+    background: #ffd215;
+}
+
+/*footer*/
+
+#footer {
+    background: url(../images/16.jpg) repeat 50% 0px;
+    margin-top: 25px;
+    padding-top: 15px;
+}
+
+#footer > div > h2:nth-child(1), h2:nth-child(2) {
+    padding-bottom: 20px;
+    font-family: SegoeUI-Light;
+    font-size: 18px;
+    line-height: 20px;
+    background: url(../images/icons/15.png) no-repeat 0px 4px;
+    padding-left: 25px;
+}
+
+#footer > div > a {
+    display: block;
+    padding-bottom: 20px;
+    font-family: SegoeUI-Light;
+    font-size: 18px;
+    line-height: 20px;
+    background: url(../images/icons/15.png) no-repeat 0px 4px;
+    padding-left: 25px;
+    font-weight: bold;
+}
