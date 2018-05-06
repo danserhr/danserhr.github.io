@@ -1,3 +1,7 @@
+body {
+    overflow: auto;
+}
+
 /*head*/
 #head {
     padding-top: 10px;
@@ -41,7 +45,7 @@
     padding: 20px 0px;
 }
 
-body > div.hot > div > div > div.wrap {
+#hot > div > div > div.wrap {
     background: #ffd215;
 }
 
