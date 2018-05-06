@@ -376,6 +376,7 @@ body {
     background: url(../images/icons/15.png) no-repeat 0px 4px;
     padding-left: 25px;
     font-weight: bold;
+<<<<<<< HEAD
 }
 
 /* modal*/
@@ -388,4 +389,6 @@ body {
 #sectionfive > div > div {
     margin-left: auto;
     margin-right: auto;
+=======
+>>>>>>> parent of 082c7c4... 123
 }
